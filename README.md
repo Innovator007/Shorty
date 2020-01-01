@@ -6,6 +6,8 @@ url shortener made with node.js
 git clone https://github.com/Innovator007/Shorty.git
 cd Shorty
 npm install
+cd client && npm install
+cd ..
 
 ```
 ##### If you don't have nodemon installed then paste the following line in terminal/command-prompt
